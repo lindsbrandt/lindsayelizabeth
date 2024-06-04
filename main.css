@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+  }
+body, html {
+    height: 100%;
+  }
+
+  p{
+    font-family: "filmotype-yukon", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+a {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: lightslategray;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+body {
+margin: 0;
+font-family: system-ui;
+
+}
+
+.hero {
+    background-color: #ffb0c6;
+    background-image: url("lindsay\ still\ 19.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    color: white;
+    width:auto;
+    height: 100%;
+    margin: auto;
+    position: fixed;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+.header{
+}
+
+.aside-2{
+    padding: 20px;
+    margin-right: 80px;
+    border-radius: 15px;
+    font-family: "mencken-std", sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size:large;
+    align-self: flex-end;
+    width: 400px;
+    height: fit-content;
+    background-color: #ffb0c6;
+    color: #000;
+
+}
+
+.footer{
+    
+    align-self: baseline;
+    justify-self: flex-end;
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+    .header{
+        padding-bottom: 150px;
+        width: 400px;
+    }
+    .aside-2{
+        margin-right: 25px;
+        font-size:medium;
+        width: 300px;
+    }
+    .footer {
+      padding-top: 40px;
+    }
+  }

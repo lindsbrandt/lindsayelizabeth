@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 808.75 230.57">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #ffb0c6;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        font-family: MenckenStdHeadCompress-Bold, 'Mencken Std Head Compress';
+        font-size: 107px;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        font-family: FilmotypeYukon, 'Filmotype Yukon';
+        font-size: 117px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 89.61)"><tspan class="cls-6"><tspan x="0" y="0">I am out with the l</tspan><tspan class="cls-8" x="536.17" y="0">a</tspan><tspan class="cls-2" x="569.77" y="0">t</tspan><tspan x="590.85" y="0">ern</tspan><tspan class="cls-4" x="692.71" y="0">s</tspan><tspan x="717.53" y="0">..</tspan><tspan class="cls-5" x="748.35" y="0">.</tspan></tspan><tspan class="cls-7"><tspan x="0" y="80">looking for myse</tspan><tspan class="cls-1" x="402.23" y="80">l</tspan><tspan x="421.65" y="80">f</tspan></tspan></text>
+</svg>
